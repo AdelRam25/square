@@ -1,0 +1,21 @@
+#square{
+    width: 200px;
+    height: 150px;
+    background-color: blue;
+    margin: 10px;
+}
+
+button{
+    padding: 10px;
+    margin: 10px;
+}
+
+body {
+    background: #01023C;
+}
+#div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+}
